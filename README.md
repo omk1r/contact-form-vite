@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Screenshots
 
-![Desktop View](./screenshot.png)
+![Desktop View](./src/assets/screenshot.pngscreenshot.png)
 
 ### Links
 
